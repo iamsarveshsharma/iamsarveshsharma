@@ -1,4 +1,14 @@
 <!-- Intro  -->
+<img align="center" src="/assets/js.gif" alt="js gif" />
+<br>
+<img align="center" src="/assets/productive.gif" alt="productive gif" />
+<br>
+<img align="center" src="/assets/window.gif" alt="window gif" />
+<br>
+<img align="center" src="/assets/workstation.gif" alt="workstation gif" />
+<br>
+
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am <b>Sarvesh Sharma</b>
         </samp>
