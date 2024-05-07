@@ -1,11 +1,5 @@
 <!-- Intro  -->
-<img align="center" src="/assets/js.gif" alt="js gif" />
-<br>
-<img align="center" src="/assets/productive.gif" alt="productive gif" />
-<br>
-<img align="center" src="/assets/window.gif" alt="window gif" />
-<br>
-<img align="center" src="/assets/workstation.gif" alt="workstation gif" />
+<img align="center" width="1000px" src="/assets/window.gif" alt="window gif" />
 <br>
 
 
