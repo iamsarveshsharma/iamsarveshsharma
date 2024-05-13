@@ -43,10 +43,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-  👋 Hi, I’m @iamsarveshsharma 👨🏻‍💻 <br/><br/>
+  👋 &emsp; Hi, I’m @iamsarveshsharma 👨🏻‍💻 <br/><br/>
   ❤️ &emsp; Enjoy doing programming and sharing my knowledge <br/><br/>
-  ✌️ &emsp; I’m currently into Mern development, also i am learning DS- Algo <br/> to brush up my programming skills<br/><br/>
-  👀  I’m looking to collaborate on coding projects which can bring change in society.<br/><br/>
+  ✌️ &emsp; I’m currently into Mern development, also i am learning DS- Algo to brush up my programming skills<br/><br/>
+  👀 &emsp; I’m looking to collaborate on coding projects which can bring change in society.<br/><br/>
  📧 &emsp; Reach me anytime: sarveshsharma034@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [Linkedin](https://linkedin.com/in/sarvesh-sharma-b498b3136) or you can try my [instagram](https://www.instagram.com/iamsarveshsharma) 
 
